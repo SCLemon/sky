@@ -1,0 +1,31 @@
+{
+    "title":"115 學測",
+    "deadline":"2026-01-16",
+    "list":[
+        {
+            "question" : "If you put a ______ under a leaking faucet, you will be surprised at the amount of water collected in 24 hours.",
+            "options":"(A) produce (B) fashion (C) brand (D) trend",
+            "answer":"C"
+        },
+        {
+            "question" : "The local farmers’ market is popular as it offers a variety of fresh seasonal ______ to people in the community.",
+            "options":"(A) border (B) timer (C) container (D) marker",
+            "answer":"A"
+        },
+        {
+            "question" : "As the years have passed by, many of my childhood memories are already ______; I can no longer recall clearly what happened back then.",
+            "options":"(A) blurring (B) trimming (C) draining (D) glaring",
+            "answer":"A"
+        },
+        {
+            "question" : "Racist remarks are by nature ______ and hurtful, and should be avoided on all occasions.",
+            "options":"(A) excessive (B) furious (C) offensive (D) stubborn",
+            "answer":"C"
+        },
+        {
+            "question" : "Not satisfied with the first ______ of her essay, Mary revised it several times before turning it in to the teacher.",
+            "options":"(A) text (B) brush (C) draft (D) plot",
+            "answer":"C"
+        }
+    ]
+}
